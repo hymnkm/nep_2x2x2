@@ -1,0 +1,8 @@
+type 5 C N H Pb I
+neuron 50
+n_max 8 4
+basis_size 12 12
+l_max 6 2 1
+lambda_1 0.1
+lambda_2 0.1
+generation 200000
