@@ -1,5 +1,2 @@
 type 5 C N H Pb I
-neuron 50
-lambda_1 0.1
-lambda_2 0.1
 generation 200000
